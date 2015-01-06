@@ -1,3 +1,3 @@
 class helloworld {
-  notify { "There is a rainbow unicorn over there.": message => "I am in the production environment." }
+  notify { "There will be a rainbow unicorn over there.": message => "I am in the \${environment} environment." }
 }
