@@ -3,7 +3,6 @@ mod 'adrien/network',
 
 mod 'andersonmills/some_master_name',
   :git => 'git@github.com:andersonmills/puppetfile-testing.git',
-  :branch => 'master',
   :install_path => 'master_data_dir'
 
 mod 'andersonmills/another_master_name',
