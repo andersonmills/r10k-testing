@@ -1,5 +1,5 @@
 moduledir "anderson_test_modules"
-#mod 'puppetlabs/f5'
+mod 'puppetlabs/f5'
 #mod 'adrien/network', :git => 'git://github.com/adrienthebo/puppet-network'
 #mod 'nodog/happiness'
 mod 'branan-eight_hundred', '8.0.0'
